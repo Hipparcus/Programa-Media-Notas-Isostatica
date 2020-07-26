@@ -1,7 +1,7 @@
 # Programa Media Notas Isostatica
  **Calculadora de medias dos alunos de Isostatica UFRJ**
 
-  * Este programa foi feito para auxiliar o professor Cesar Vidal Cunha do curso de Isostática da UFRJ a calcular a média de seus alunos.
+  * Este programa foi feito para auxiliar o professor *Cesar Vidal Cunha* do curso de **Isostática da UFRJ** a calcular a média de seus alunos.
   * É de fundamental importância considerar o como era feito a média de sua turma. 
 
   **Havendo 4 avaliações + uma prova final. Considerava aparovado direto aqueles com nota >=7 (alunos com notas próximas a 6,8~6,9 também eram aprovados, de forma que considerei isso no programa também).**
