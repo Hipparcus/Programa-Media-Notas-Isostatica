@@ -10,3 +10,10 @@
   * O programa lê o numero de pessoas da turma. Depois, pedirá o nome de cada aluno, assim como suas notas. Calcula a média e a salva em um arquivo aparte. Em seguida, pergunta a nota final daqueles que ficaram para a *final* (Isso pois é impossível um aluno com nota .= 7.0 fazer a prova final).
 
   * Ao final, há um segundo arquivo com a lista de todos os alunos inseridos e suas devidas médias.
+
+
+
+
+  ***Há 3 versões diferentes devido a alguns erros que ocorriam. A ultima versão é a que teve o resultado mais satisfatório e nenhum erro aparente.***
+
+    
