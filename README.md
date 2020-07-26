@@ -12,7 +12,7 @@
   * Ao final, há um segundo arquivo com a lista de todos os alunos inseridos e suas devidas médias.
 
   1. N1 + N2 + N3 /3 = Média inicial **(MI)**
-  1. Se **MI** <~6.8 então há uma **N4** que substituirá a menor nota das três.
+  1. Se **MI** <~6.6 então há uma **N4** que substituirá a menor nota das três.
      * *ex*:  (2.5 + 5.5 + 6.0)/3 = MI = 4,7 --> N4=6.0 então: Média nova **(MN)** = (6.0 + 5.5 + 6.0)/3 = 5.8 
            Como 5.8 < 7 --> Haverá PF (prova final), supondo PF = 7.5:
                         5.8+7.5/2 = **6.6** --> ***Aprovado.***
@@ -20,6 +20,7 @@
 
 
  ***OBS***: *Use numeros com **. (ponto)** invés de **, (vírgula)** para que o programa funcione normalmente*
+  *Alunos com media 6.6 são considerados aprovados, sem a necessidade de passar por uma PF ou reposição, como se tivessem média 7.0.*
 
 
   ***Há 3 versões diferentes devido a alguns erros que ocorriam. A ultima versão é a que teve o resultado mais satisfatório e nenhum erro aparente.***
