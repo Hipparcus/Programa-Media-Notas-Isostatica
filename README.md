@@ -22,6 +22,7 @@
  ***OBS***: *Escreva as casas decimais com **. (ponto)** invés de **, (vírgula)** para que o programa funcione normalmente*
   *Alunos com media 6.6 são considerados aprovados, sem a necessidade de passar por uma PF ou reposição, como se tivessem média 7.0.*
 
-    *Thiago L V Cunha*
+
+   *Thiago L V Cunha*
 
     
