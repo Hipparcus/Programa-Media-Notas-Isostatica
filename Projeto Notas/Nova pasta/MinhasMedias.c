@@ -73,7 +73,7 @@ int LendoarquivoseCalculandoMedia(int NumAlunos){
 int main(){
     char b;
     int N,o,cont=0;
-    printf("###Bem-Vindo ao programa de medias!###\nDesenvolvido por Thiago Laidler Vidal Cunha, grande programador e astrofisico da UFRJ.\nTodos os direitos reservados\n");
+    printf("###Bem-Vindo ao programa de medias!###\nDesenvolvido por Thiago Laidler, estudante de programacao e astrofisica da UFRJ.\nTodos os direitos reservados\n");
     printf("#####O que gostaria de fazer?#####\n(1)Comecar o programa agora.\n(2)Ver o manual de instrucoes.\n(3)Fechar o programa.\nSe digitar um numero invalido podera tentar novamente ate 3 vezes antes do programa finalizar automaticamente!\n");
     scanf("%d",&o);
     while (o!=1&&o!=2&&o!=3){
