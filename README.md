@@ -7,7 +7,7 @@
        **Havendo 3 avaliações + uma prova de reposição (que substitui a menor nota das 3, mas *exclusivos para alunos de média inferior a 7*) + uma prova final. Eram aparovados direto aqueles com nota >=7.**
   ***Apartir da feitura da prova final a média necessária para aprovação passava a ser 5.0***
 
-  * O programa lê o numero de pessoas da turma. Depois, pede o nome de cada aluno, assim como suas notas. Calcula a média e a salva em *um arquivo (.txt)* aparte. Em seguida, pergunta a nota final daqueles que ficaram para a *final* (Isso pois é impossível um aluno com nota >= 7.0 fazer a prova final). 
+  * O programa lê o numero de pessoas da turma. Depois, pede o nome de cada aluno, assim como suas notas. Calcula a média e a salva em *um arquivo (.txt)* aparte. Em seguida, pergunta a nota da Prova Final(PF) daqueles que ficaram na abaixo da média.
 
   * Ao final, há um segundo arquivo com a lista de todos os alunos inseridos e suas devidas médias.
 
